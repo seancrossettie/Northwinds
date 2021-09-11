@@ -1,6 +1,6 @@
 # Northwinds
 
-
+![Untitled](https://user-images.githubusercontent.com/76828201/132952337-f3f46159-90f8-4081-8c08-614db72ecb76.png)
 
 Write queries to answer the following questions:
 1. What is the undiscounted subtotal for each Order (identified by OrderID).
