@@ -1,6 +1,5 @@
-# Northwinds
-Download the script to create the northwind database from here: 
-[https://github.com/microsoft/sql-server-samples/raw/master/samples/databases/northwind-pubs/instnwnd.sql](https://github.com/microsoft/sql-server-samples/raw/master/samples/databases/northwind-pubs/instnwnd.sql)
+# Northwind SQL Database 
+Download the script to create the northwind database from [here](https://github.com/microsoft/sql-server-samples/raw/master/samples/databases/northwind-pubs/instnwnd.sql)
 
 ![Untitled](https://user-images.githubusercontent.com/76828201/132952337-f3f46159-90f8-4081-8c08-614db72ecb76.png)
 
